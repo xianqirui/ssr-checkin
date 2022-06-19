@@ -2,17 +2,17 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "",
+            "domain": "https://portal.getfree.cloud/",
             "param": {
-                "email": "",
-                "passwd": ""
+                "email": "744713157@qq.com",
+                "passwd": "x744713157"
             }
         },
         {
-            "domain": "",
+            "domain": "https://portal.getfree.cloud/",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "744713157@qq.com",
+                "passwd": "x744713157",
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
